@@ -38,4 +38,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshadhinjr&show_icons=true&locale=en" alt="arshadhinjr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshadhinjr&" alt="arshadhinjr" /></p>
